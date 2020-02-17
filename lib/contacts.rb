@@ -18,4 +18,4 @@ def remove_strawberry(contacts)
   contacts.each do |name, data|
   if name == "Freddy Mercury"
     contact
-end
+  data.each do |
